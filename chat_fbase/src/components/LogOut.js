@@ -17,6 +17,7 @@ const LogOut = () => {
             className={style.button}>
         Logout
         </button>
+        
   )
 }
 
